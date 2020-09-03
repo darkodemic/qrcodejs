@@ -1,0 +1,25 @@
+{
+  "name": "@darkodemic/qrcodejs",
+  "version": "1.0.0",
+  "description": "QR code generator for JS.",
+  "main": "qrcode.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkodemic/qrcodejs.git"
+  },
+  "keywords": [
+    "qr",
+    "qrcode",
+    "generator"
+  ],
+  "author": "Darko Demić <mail@darkodemic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkodemic/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/darkodemic/qrcodejs#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
